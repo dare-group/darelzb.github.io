@@ -2,69 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/dare-group/darelzb.github.io/en/authors/</loc>
+    <loc>https://github.com/dare-group/darelzb.github.io/en/authors/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="http://localhost:1313/dare-group/darelzb.github.io/zh/authors/"
+                href="https://github.com/dare-group/darelzb.github.io/zh/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/dare-group/darelzb.github.io/en/authors/"
+                href="https://github.com/dare-group/darelzb.github.io/en/authors/"
                 />
   </url><url>
-    <loc>http://localhost:1313/dare-group/darelzb.github.io/en/categories/</loc>
+    <loc>https://github.com/dare-group/darelzb.github.io/en/categories/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="http://localhost:1313/dare-group/darelzb.github.io/zh/categories/"
+                href="https://github.com/dare-group/darelzb.github.io/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/dare-group/darelzb.github.io/en/categories/"
+                href="https://github.com/dare-group/darelzb.github.io/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/dare-group/darelzb.github.io/en/publication_types/</loc>
+    <loc>https://github.com/dare-group/darelzb.github.io/en/publication_types/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="http://localhost:1313/dare-group/darelzb.github.io/zh/publication_types/"
+                href="https://github.com/dare-group/darelzb.github.io/zh/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/dare-group/darelzb.github.io/en/publication_types/"
+                href="https://github.com/dare-group/darelzb.github.io/en/publication_types/"
                 />
   </url><url>
-    <loc>http://localhost:1313/dare-group/darelzb.github.io/en/tags/</loc>
+    <loc>https://github.com/dare-group/darelzb.github.io/en/tags/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="http://localhost:1313/dare-group/darelzb.github.io/zh/tags/"
+                href="https://github.com/dare-group/darelzb.github.io/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/dare-group/darelzb.github.io/en/tags/"
+                href="https://github.com/dare-group/darelzb.github.io/en/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/dare-group/darelzb.github.io/en/</loc>
+    <loc>https://github.com/dare-group/darelzb.github.io/en/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="http://localhost:1313/dare-group/darelzb.github.io/zh/"
+                href="https://github.com/dare-group/darelzb.github.io/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/dare-group/darelzb.github.io/en/"
+                href="https://github.com/dare-group/darelzb.github.io/en/"
                 />
   </url>
 </urlset>
