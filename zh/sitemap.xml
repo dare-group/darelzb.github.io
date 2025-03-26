@@ -2,151 +2,151 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/dare.github.io/zh/event/example/</loc>
+    <loc>http://localhost:1313/dare-group/darelzb.github.io/zh/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/dare.github.io/zh/event/</loc>
+    <loc>http://localhost:1313/dare-group/darelzb.github.io/zh/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/dare.github.io/zh/</loc>
+    <loc>http://localhost:1313/dare-group/darelzb.github.io/zh/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/dare.github.io/en/"
+                href="http://localhost:1313/dare-group/darelzb.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="http://localhost:1313/dare.github.io/zh/"
+                href="http://localhost:1313/dare-group/darelzb.github.io/zh/"
                 />
   </url><url>
-    <loc>http://localhost:1313/dare.github.io/zh/contact/</loc>
+    <loc>http://localhost:1313/dare-group/darelzb.github.io/zh/contact/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/dare.github.io/zh/people/</loc>
+    <loc>http://localhost:1313/dare-group/darelzb.github.io/zh/people/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/dare.github.io/zh/tour/</loc>
+    <loc>http://localhost:1313/dare-group/darelzb.github.io/zh/tour/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/dare.github.io/zh/post/20-12-02-icml-best-paper/</loc>
+    <loc>http://localhost:1313/dare-group/darelzb.github.io/zh/post/20-12-02-icml-best-paper/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/dare.github.io/zh/post/</loc>
+    <loc>http://localhost:1313/dare-group/darelzb.github.io/zh/post/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/dare.github.io/zh/post/20-12-01-wowchemy-prize/</loc>
+    <loc>http://localhost:1313/dare-group/darelzb.github.io/zh/post/20-12-01-wowchemy-prize/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/dare.github.io/zh/publication/preprint/</loc>
+    <loc>http://localhost:1313/dare-group/darelzb.github.io/zh/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/dare.github.io/zh/publication-type/article/</loc>
+    <loc>http://localhost:1313/dare-group/darelzb.github.io/zh/publication-type/article/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/dare.github.io/zh/authors/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/dare.github.io/en/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="http://localhost:1313/dare.github.io/zh/authors/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/dare.github.io/zh/author/nelson-bighetti/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/dare.github.io/zh/publication_types/</loc>
+    <loc>http://localhost:1313/dare-group/darelzb.github.io/zh/authors/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/dare.github.io/en/publication_types/"
+                href="http://localhost:1313/dare-group/darelzb.github.io/en/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="http://localhost:1313/dare.github.io/zh/publication_types/"
+                href="http://localhost:1313/dare-group/darelzb.github.io/zh/authors/"
                 />
   </url><url>
-    <loc>http://localhost:1313/dare.github.io/zh/publication/</loc>
+    <loc>http://localhost:1313/dare-group/darelzb.github.io/zh/author/nelson-bighetti/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/dare.github.io/zh/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/dare.github.io/zh/tags/</loc>
+    <loc>http://localhost:1313/dare-group/darelzb.github.io/zh/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/dare.github.io/en/tags/"
+                href="http://localhost:1313/dare-group/darelzb.github.io/en/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="http://localhost:1313/dare.github.io/zh/tags/"
+                href="http://localhost:1313/dare-group/darelzb.github.io/zh/publication_types/"
                 />
   </url><url>
-    <loc>http://localhost:1313/dare.github.io/zh/publication/journal-article/</loc>
+    <loc>http://localhost:1313/dare-group/darelzb.github.io/zh/publication/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/dare-group/darelzb.github.io/zh/tag/source-themes/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/dare-group/darelzb.github.io/zh/tags/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/dare-group/darelzb.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="http://localhost:1313/dare-group/darelzb.github.io/zh/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/dare-group/darelzb.github.io/zh/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/dare.github.io/zh/publication-type/article-journal/</loc>
+    <loc>http://localhost:1313/dare-group/darelzb.github.io/zh/publication-type/article-journal/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/dare.github.io/zh/author/robert-ford/</loc>
+    <loc>http://localhost:1313/dare-group/darelzb.github.io/zh/author/robert-ford/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/dare.github.io/zh/publication/conference-paper/</loc>
+    <loc>http://localhost:1313/dare-group/darelzb.github.io/zh/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/dare.github.io/zh/publication-type/paper-conference/</loc>
+    <loc>http://localhost:1313/dare-group/darelzb.github.io/zh/publication-type/paper-conference/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/dare.github.io/zh/admin/</loc>
+    <loc>http://localhost:1313/dare-group/darelzb.github.io/zh/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/dare.github.io/zh/author/alice-wu-%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <loc>http://localhost:1313/dare-group/darelzb.github.io/zh/author/alice-wu-%E5%90%B3%E6%81%A9%E9%81%94/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/dare.github.io/zh/categories/</loc>
+    <loc>http://localhost:1313/dare-group/darelzb.github.io/zh/categories/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/dare.github.io/en/categories/"
+                href="http://localhost:1313/dare-group/darelzb.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="http://localhost:1313/dare.github.io/zh/categories/"
+                href="http://localhost:1313/dare-group/darelzb.github.io/zh/categories/"
                 />
   </url>
 </urlset>
